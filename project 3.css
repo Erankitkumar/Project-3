@@ -3,13 +3,13 @@ background: {
 				font-family: Helvetica;
 }
 div.header-img{
-				width:10px;
+				width:100px;
 				background-color:#1a1a1a;
 				overflow: hidden;
 				position:fixed;
 }
 #header-img{
-				width:3500px;
+				width:350px;
       filter:invert(100%);
       margin:auto;
      display:block;
