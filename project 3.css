@@ -10,7 +10,7 @@ div.header-img{
                                 
 }
 #header-img{
-				width:35px;
+				width:350px;
       filter:invert(100%);
       margin:auto;
      display:block;
@@ -30,7 +30,7 @@ div.nav-bar{
 				padding:18px 50px;
 				float:left;
 	      			transition: background .5s ease;
-                                
+                                margin-left:60px;
 }
 .nav-link:hover{
 				background-color:#008fb3;
