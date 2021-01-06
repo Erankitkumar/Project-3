@@ -11,7 +11,7 @@ div.header-img{
 #header-img{
 				width:350px;
       filter:invert(100%);
-      margin:center;
+      margin:auto;
      display:block;
 }
 div.nav-bar{
