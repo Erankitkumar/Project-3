@@ -24,10 +24,10 @@ div.nav-bar{
 }
 .nav-link{
 				color: white;
-				text-decoration:none;
+				text-decoration:center;
 				text-align:center;
 				font-size:18px;
-				padding:10px 50px;
+				padding:18px 50px;
 				float:left;
 				transition: background .5s ease;
 }
