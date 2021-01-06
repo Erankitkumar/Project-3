@@ -10,7 +10,7 @@ div.header-img{
                                 
 }
 #header-img{
-				width:350px;
+				width:35px;
       filter:invert(100%);
       margin:auto;
      display:block;
@@ -19,8 +19,8 @@ div.nav-bar{
      overflow: hidden;
      position:top;
 				background-color:#1a1a1a;
-				width:0%;
-				top:4%;
+				width:50%;
+				top:47%;
 }
 .nav-link{
 				color: white;
