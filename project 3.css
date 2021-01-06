@@ -24,12 +24,13 @@ div.nav-bar{
 }
 .nav-link{
 				color: white;
-				text-decoration:center;
+				text-decoration:none;
 				text-align:center;
 				font-size:18px;
 				padding:18px 50px;
 				float:left;
-				transition: background .5s ease;
+	      			transition: background .5s ease;
+                                 witdh:20px;
 }
 .nav-link:hover{
 				background-color:#008fb3;
