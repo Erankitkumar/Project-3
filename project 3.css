@@ -16,7 +16,7 @@ div.header-img{
 }
 div.nav-bar{
      overflow: hidden;
-     position: fixed;
+     position:top;
 				background-color:#1a1a1a;
 				width:100%;
 				top:47%;
@@ -64,7 +64,7 @@ div.nav-bar{
 				border:none;
 				border-radius:50px;
 				width:80px;
-				background-color:#008fb3;
+				background-color:blue;
 				margin-top:20px;
 				color: white;
 				font-size:15px;
@@ -73,6 +73,7 @@ div.nav-bar{
 }
 #submit:hover{
 				background-color:#FF1493;
+                                width:135px;
 }
 .text{
 				width:700px;
