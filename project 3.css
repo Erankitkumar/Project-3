@@ -19,8 +19,8 @@ div.nav-bar{
      overflow: hidden;
      position:top;
 				background-color:#1a1a1a;
-				width:10%;
-				top:47%;
+				width:0%;
+				top:4%;
 }
 .nav-link{
 				color: white;
@@ -30,7 +30,7 @@ div.nav-bar{
 				padding:18px 50px;
 				float:left;
 	      			transition: background .5s ease;
-                                 witdh:20px;
+                                
 }
 .nav-link:hover{
 				background-color:#008fb3;
