@@ -2,6 +2,9 @@ background: {
 				background-color:#262626;
 				font-family: Helvetica;
 }
+#Form{
+	                        background-color:Peru;
+                                
 div.header-img{
 				width:0px;
 				background-color:#1a1a1a;
@@ -19,10 +22,54 @@ div.nav-bar{
      overflow: hidden;
      position:top;
 				background-color:#1a1a1a;
-				width:20px;
+				width:100%;
+	
+			top:47%;
+	textbackground: {
+				background-color:#262626;
+				font-family: Helvetica;
+}
+#Form{
+	
+div.header-img{
+				width:0px;
+				background-color:#1a1a1a;
+				overflow: hidden;
+				position:fixed;
+                                
+}
+#header-img{
+				width:350px;
+                                filter:invert(100%);
+                                margin:auto;
+                                display:block;
+}
+div.nav-bar{
+     overflow: hidden;
+     position:top;
+				background-color:#1a1a1a;
+				width:100%;
 	
 			top:47%;
 	text-align:center;
+	
+}
+.nav-link{
+				color:white;
+				text-decoration:none;
+				text-align:center;
+				font-size:18px;
+				padding:18px 50px;
+				float:left;
+	      			transition: background .5s ease;
+
+	
+                               
+}
+.nav-link:hover{
+				background-color:#008fb3;
+}
+.title{ -align:center;
 	
 }
 .nav-link{
