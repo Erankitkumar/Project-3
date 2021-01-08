@@ -4,7 +4,7 @@ background: {
 }
 #Form{
 	                        background-color:Peru;
-                                
+       }                         
 div.header-img{
 				width:0px;
 				background-color:#1a1a1a;
@@ -19,13 +19,13 @@ div.header-img{
                                 display:block;
 }
 div.nav-bar{
-     overflow: hidden;
-     position:top;
+                               overflow: hidden;
+                                position:top;
 				background-color:#1a1a1a;
 				width:100%;
 	
-			top:47%;
-	textbackground: {
+               			top:47%;
+textbackground: {    
 				background-color:#262626;
 				font-family: Helvetica;
 }
@@ -45,13 +45,12 @@ div.header-img{
                                 display:block;
 }
 div.nav-bar{
-     overflow: hidden;
-     position:top;
+                                overflow: hidden;
+                                position:top;
 				background-color:#1a1a1a;
 				width:100%;
-	
-			top:47%;
-	text-align:center;
+			        top:47%;
+	                        text-align:center;
 	
 }
 .nav-link{
