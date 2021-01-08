@@ -20,7 +20,10 @@ div.nav-bar{
      position:top;
 				background-color:#1a1a1a;
 				width:20px;
-				top:47%;
+	
+			top:47%;
+	text-align:center;
+	
 }
 .nav-link{
 				color:white;
@@ -40,7 +43,7 @@ div.nav-bar{
 .title{ 
 				margin-top:150px;
 				color:#005fb3;
-				text-align:center;
+				;
 }
 #email{
 				display:block;
