@@ -10,10 +10,10 @@ div.header-img{
                                 
 }
 #header-img{
-				width:350px;
-      filter:invert(100%);
-      margin:auto;
-     display:block;
+				width:0px;
+                                filter:invert(100%);
+                                margin:auto;
+                                display:block;
 }
 div.nav-bar{
      overflow: hidden;
